@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\chron\Desktop\Tetris\SFML\SFML\main.cpp(116,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\chron\Desktop\Tetris\SFML\SFML\main.cpp(151,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chron\Desktop\Tetris\SFML\SFML\main.cpp(193,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chron\Desktop\Tetris\SFML\SFML\main.cpp(249,48): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chron\Desktop\Tetris\SFML\SFML\main.cpp(264,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\chron\Desktop\Tetris\SFML\SFML\main.cpp(264,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\chron\Desktop\Tetris\SFML\SFML\main.cpp(272,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\chron\Desktop\Tetris\SFML\SFML\main.cpp(272,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\chron\Desktop\Tetris\SFML\Debug\SFML.exe
